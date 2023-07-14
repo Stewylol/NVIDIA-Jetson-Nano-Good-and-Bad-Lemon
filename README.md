@@ -2,12 +2,15 @@
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 75px">
   <div>
-    <img src="https://github.com/NicholasRevenco/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/111706705/0748ad4b-9ced-4bbb-87ca-62b088f0995c" width="300" height="100%">
-	<p>Model that detects a good lemon:</p>
-  </div>
-  <div>
-    <img src="https://github.com/NicholasRevenco/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/111706705/eab2e665-27dc-4e4f-a1fa-c8292c05e5d8" width="350" height="100%">
+    <img src="https://github.com/Stewylol/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/139058370/94434e48-8eca-4983-8e93-6ac7befcc7e2" width="300" height="100%">
 	<p>Model that detects a bad lemon:</p>
+  </div>)
+
+
+
+  <div>
+    <img src="https://github.com/Stewylol/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/139058370/4484dbe2-0aea-4afc-8ec1-14c4cdab1808" width="350" height="100%">
+	<p>Model that detects a good lemon:</p>
   </div>
 </div>
 
