@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between; margin-bottom: 75px">
   <div>
 	<p>Model that detects a bad lemon:</p>
-    <img src="https://github.com/Stewylol/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/139058370/94434e48-8eca-4983-8e93-6ac7befcc7e2" width="300" height="100%">
+    <img src="https://github.com/Stewylol/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/139058370/e4ea9aed-c4f8-47e2-8bd3-46c71cbc33a8" width="300" height="100%">
   </div>
 
 
