@@ -61,7 +61,7 @@ A step-by-step guide on how to set up VS Code, organize your dataset, train your
 12. Navigate to **jetson-inference/python/training/classification/data**.
 13. Extract the dataset ZIP file.
 14. Inside **jetson-inference/python/training/classification/data**, create a new folder called **lemons**. Inside **lemons**, add three folders: **test**, **train**, **val** and a file named **labels.txt**.
-15. In the **train** directory inside **lemons**, create 12 folders named **Apple_bad**, **Apple_Good**, **Banana_Bad**, **Banana_Good**, and similar ones for Guava, Lime, Orange, and Pomegranate.
+15. In the **train** directory inside **lemons**, create 12 folders named **bad_quality**, **good_quality**, and similar ones for Guava, Lime, Orange, and Pomegranate.
 16. Copy these folders to the **val** and **test** directories.
 17. Distribute the images from your ZIP file among these folders, with 80% in the **train** folder, 10% in the **val** folder, and 10% in the **test** folder for each lemon type. Unfortunately, this will be a manual task and may take some time.
 
