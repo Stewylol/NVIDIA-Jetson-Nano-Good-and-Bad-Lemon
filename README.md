@@ -9,8 +9,8 @@
 
 
   <div>
-    <img src="https://github.com/Stewylol/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/139058370/4484dbe2-0aea-4afc-8ec1-14c4cdab1808" width="350" height="100%">
 	<p>Model that detects a good lemon:</p>
+    <img src="https://github.com/Stewylol/NVIDIA-Jetson-Nano-Good-and-Bad-Lemon/assets/139058370/4484dbe2-0aea-4afc-8ec1-14c4cdab1808" width="350" height="100%">
   </div>
 </div>
 
